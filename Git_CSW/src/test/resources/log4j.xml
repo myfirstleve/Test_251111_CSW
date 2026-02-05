@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.itwillbs.csw">
+	<logger name="com.a.b">
 		<level value="info" />
 	</logger>
 	

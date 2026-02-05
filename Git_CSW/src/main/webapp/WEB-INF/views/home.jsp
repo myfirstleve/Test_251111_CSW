@@ -1,15 +1,14 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>  
-<!DOCTYPE html>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ page session="false" %>
 <html>
 <head>
-	<meta charset="UTF-8">
-	<title>Insert title here</title>
+	<title>Home</title>
 </head>
 <body>
-	<h1>최승우</h1>
-	<%-- 깃허브 푸시 확인용 --%>
-	<h1>세계수보다 강한것은? 네계수!</h1>
+<h1>
+	Hello world!  
+</h1>
+
+<P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
