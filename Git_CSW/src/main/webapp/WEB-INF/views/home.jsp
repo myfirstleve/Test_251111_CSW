@@ -8,6 +8,8 @@
 	<title>Insert title here</title>
 </head>
 <body>
-	<h1>뚱인데요</h1>
+	<h1>최승우</h1>
+	<%-- 깃허브 푸시 확인용 --%>
+	
 </body>
 </html>
